@@ -5,10 +5,7 @@
 
 Hello there! I'm Tanishq, a passionate Cybersecurity Enthusiast who loves diving into the depths of network security, ethical hacking, and all things cyber. I am dedicated to protecting the digital world and staying ahead of the curve in the ever-evolving field of cybersecurity.
 
-- 🛡️ **Security Aficionado:** Exploring the fascinating world of cyber threats and defenses.
-- 💻 **Tech Lover:** Constantly tinkering with new technologies and tools.
-- 📜 **Certified:** Proud holder of various certifications.
-- 🌱 **Lifelong Learner:** Always eager to learn and grow in the cybersecurity space.
+- 🛡️ **Security Rsearcher:** Exploring the fascinating world of cyber threats and defenses.
 - 🎮 **Gamer:** When I'm not securing networks, I'm probably saving the world in a video game.
 
 ## 🔧 Skills & Tools
