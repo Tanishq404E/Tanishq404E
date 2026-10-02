@@ -26,7 +26,7 @@ Hello there! I'm Tanishq, a passionate Cybersecurity Enthusiast who loves diving
 
 If you share similar interests or have any questions, feel free to reach out to me. I'm always open to exciting conversations and collaborations!
 
-[![Email](https://img.shields.io/badge/Email-tanishqtanwar1976%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:tanishqtanwar1976@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tanishq.error404%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:tanishq.error404@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq404e)
 ```bash
    Discord: akito.404_error
@@ -40,7 +40,7 @@ If you share similar interests or have any questions, feel free to reach out to 
 
 ---
 
-Thank you for visiting my profile! Let's make the digital world a safer place together. 🚀
+Thank you for visiting my profile!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishq404E&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanishq404E&theme=chartreuse_dark)
